@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-#### 💡 Who I Am 💡
+#### 💡 Who am I 💡
 <br>
 Hello, I'm Sanho Kim, a growing developer!<br>
 I like to learn and I want to live happily without forgetting to love the world.
