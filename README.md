@@ -11,7 +11,7 @@ I like to learn and I want to live happily without forgetting to love the world.
 <br>
 <br>
 こんにちは。キム·サンホと申します。 成長している開発者です。 <br>
-新しいことを学んで知っていくのが好きです。 世の中を愛することを忘れずに楽しく生きていきたいです。
+新しいことを学んで知っていくのが好きです。 世の中を愛することを忘れずに楽しく生きたいです。
 <br>
 <br>
 
