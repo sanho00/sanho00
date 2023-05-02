@@ -17,7 +17,7 @@ I like to learn new things and I want to live happily without forgetting to love
 
 
 #### ☁️ SNS List ☁️
-<a href="https://www.instagram.com/__dnfll/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a><a href="https://www.notion.so/fromsanho/0abf74dd7f3247e083dacbb737b5b4ff" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><a href="https://blog.naver.com/undersea__" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://www.notion.so/fromsanho/0abf74dd7f3247e083dacbb737b5b4ff" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><a href="https://blog.naver.com/undersea__" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <br>
 <br>
 
