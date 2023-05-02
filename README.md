@@ -7,7 +7,7 @@
 #### 💡 Who am I 💡
 <br>
 Hello, I'm Sanho Kim, a growing developer!<br>
-I like to learn and I want to live happily without forgetting to love the world.
+I like to learn new things and I want to live happily without forgetting to love the world.
 <br>
 <br>
 こんにちは。キム·サンホと申します。 成長している開発者です。 <br>
